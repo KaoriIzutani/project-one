@@ -26,6 +26,9 @@ Add a new object to the array using your data.
 
 Here you can find the most important git commands: 
 
+### "Project One" repo
+https://github.com/codejourneys-org/project-one.git
+
 ### COMMIT CHANGES TO THE HEAD
 git commit -m "Commit message"
 
