@@ -1,7 +1,12 @@
 [
-  {
-    "name": "Test",
-    "githubNick": "test",
-    "country": "test"
-  }
+	{
+		"name": "Test",
+		"githubNick": "test",
+		"country": "test"
+	},
+	{
+		"name": "Ricky",
+		"githubNick": "RickyDoesCode",
+		"country": "Indonesia"
+	}
 ]
