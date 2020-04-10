@@ -3,5 +3,10 @@
     "name": "Test",
     "githubNick": "test",
     "country": "test"
+  },
+  {
+    "name": "Raffaele",
+    "githubNick": "pixari",
+    "country": "Italy"
   }
 ]
