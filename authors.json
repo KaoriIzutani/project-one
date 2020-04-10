@@ -1,12 +1,22 @@
 [
 	{
-		"name": "Test",
-		"githubNick": "test",
-		"country": "test"
-	},
-	{
 		"name": "Ricky",
 		"githubNick": "RickyDoesCode",
 		"country": "Indonesia"
-	}
+	},
+  {
+    "name": "Emilija",
+    "githubNick": "emalogajski",
+    "country": "Germany"
+  },
+  {
+    "name": "Mel Jones",
+    "githubNick": "MoodyBones",
+    "country": "Germany"
+  },
+  {
+    "name": "Raffaele",
+    "githubNick": "pixari",
+    "country": "Italy"
+  }
 ]

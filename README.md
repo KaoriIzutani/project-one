@@ -7,6 +7,7 @@ Project One is an educational project and belongs to the CodeJourneys.org commun
 ## Infos
 
 The customer is a web developer and needs a "personal website" for herself.
+
 She would like to publish the following information:
 
 - Skills
