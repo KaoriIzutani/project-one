@@ -3,5 +3,23 @@
     "name": "Rossella Mascia",
     "githubNick": "rossellamascia",
     "country": "Italia"
+    "name": "Test",
+    "githubNick": "test",
+    "country": "test"
+  },
+  {
+    "name": "Emilija",
+    "githubNick": "emalogajski",
+    "country": "Germany"
+  },
+  {
+    "name": "Mel Jones",
+    "githubNick": "MoodyBones",
+    "country": "Germany"
+  },
+  {
+    "name": "Raffaele",
+    "githubNick": "pixari",
+    "country": "Italy"
   }
 ]
