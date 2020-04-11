@@ -5,9 +5,11 @@
     "country": "test"
   }
   
-  ,{
-    "name": "Gbadamosi Odofin"
-    "githubNick": "Odofing",
-    "country": "Nigeria"
-  }
+  , {
+
+    "name": "Gbadamosi Odofin",
+   "githubNick": "Odofing",
+   "country": "Nigeria"
+
+ }
 ]
