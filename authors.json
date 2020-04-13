@@ -1,9 +1,19 @@
 [
-	{
-		"name": "Ricky",
-		"githubNick": "RickyDoesCode",
-		"country": "Indonesia"
-	},
+  {
+    "name": "Test",
+    "githubNick": "test",
+    "country": "test"
+  }, 
+  {
+    "name": "Gbadamosi Odofin",
+    "githubNick": "Odofing",
+    "country": "Nigeria"
+  },
+  {
+    "name": "Ricky",
+    "githubNick": "RickyDoesCode",
+    "country": "Indonesia"
+  },
   {
     "name": "Rossella Mascia",
     "githubNick": "_RedRoss_",
@@ -27,6 +37,16 @@
   {
 		"name": "Kaori",
 		"githubNick": "KaoriIzutani",
-    "country": "United States"
+    "country": "United States",
+  },
+  {
+    "name": "Ivo",
+    "githubNick": "botelja",
+    "country": "Croatia"
+  },
+  {
+    "name": "Dule Martins",
+    "githubNick": "dule-mart",
+    "country": "Nigeria"
   }
 ]
