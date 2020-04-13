@@ -3,13 +3,10 @@
     "name": "Test",
     "githubNick": "test",
     "country": "test"
-  }
-  
-  , {
-
+  }, 
+  {
     "name": "Gbadamosi Odofin",
-   "githubNick": "Odofing",
-   "country": "Nigeria"
-
- }
+    "githubNick": "Odofing",
+    "country": "Nigeria"
+  }
 ]
