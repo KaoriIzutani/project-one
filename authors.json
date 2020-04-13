@@ -1,5 +1,15 @@
 [
   {
+    "name": "Test",
+    "githubNick": "test",
+    "country": "test"
+  }, 
+  {
+    "name": "Gbadamosi Odofin",
+    "githubNick": "Odofing",
+    "country": "Nigeria"
+  },
+  {
     "name": "Ricky",
     "githubNick": "RickyDoesCode",
     "country": "Indonesia"
